@@ -65,7 +65,7 @@ Skype: https://join.skype.com/invite/hQ9yBTaffEP6
 
 - Main functions: Create and review E-Caf, auto assign for several departments, notifications,...
 - Responsibilities: Backend developer.
-- Language - Framework: Java|Kotlin (Spring boot), MS SQL, Angular.
+- Language - Framework: Java & Kotlin (Spring boot), MS SQL, Angular.
 - Coverage: `Backend ~ 100%`
 
 
